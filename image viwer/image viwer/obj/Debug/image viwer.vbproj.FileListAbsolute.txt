@@ -1,0 +1,10 @@
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\bin\Debug\image viwer.exe.config
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\bin\Debug\image viwer.exe
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\bin\Debug\image viwer.pdb
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\bin\Debug\image viwer.xml
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\obj\Debug\image_viwer.Form1.resources
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\obj\Debug\image_viwer.Resources.resources
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\obj\Debug\image viwer.vbproj.GenerateResource.Cache
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\obj\Debug\image viwer.exe
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\obj\Debug\image viwer.xml
+c:\users\salim ali\onedrive\documents\visual studio 2012\Projects\image viwer\image viwer\obj\Debug\image viwer.pdb
